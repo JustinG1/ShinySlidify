@@ -11,6 +11,7 @@ An entry of 1 or zero will yeild:  '1 squared is 1! Is that some kind of joke?! 
 Otherwise, the number will be squared and the result given.
 
 ui.R
+
 shinyUI( pageWithSidebar(
         headerPanel("The Super Awesome Number Squarer Shiny App!"),
         sidebarPanel(
